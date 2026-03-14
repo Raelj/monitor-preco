@@ -116,4 +116,4 @@ python agendador.py
 
 ## 📄 Licença
 
-© Raeljoss
+© 2026 Raeljoss
